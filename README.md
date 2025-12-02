@@ -68,3 +68,8 @@ This repository demonstrates your ability to write:
 ✔ Real dataset analysis
 
 It is strong evidence of your SQL competency for Data Analyst & SQL Developer roles.
+
+SIMRAN VISHWAKARMA 
+LINKEDIN : www.linkedin.com/in/simran-vishwakarma-11b2a336b
+
+
