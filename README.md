@@ -1,3 +1,11 @@
+.
+
+📌 Amazon Sales SQL Analysis — Complete Query Set (Beginner to Advanced)
+
+This project contains a structured collection of SQL questions and solutions performed on the dataset amazon_sales_2025_INR_cleaned.
+It includes CTEs, Subqueries, Window Functions, Aggregations, and Views, covering all levels of SQL practice—beginner, intermediate, and advanced.
+
+I solved 3 questions from each level to build a strong and balanced understanding of SQL concepts. 
 🧠 What This Project Includes
 ✅ Beginner Level (3 Questions Completed)
 
